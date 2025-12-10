@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(558,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(579,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(579,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(580,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(580,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(581,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\indra\Downloads\EBP\tugas4\tugas4\Source.cpp(582,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  tugas4.vcxproj -> C:\Users\indra\Downloads\EBP\tugas4\Debug\tugas4.exe

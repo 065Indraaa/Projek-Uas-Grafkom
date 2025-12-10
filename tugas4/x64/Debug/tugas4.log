@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Grafikom\tugas4\tugas4\Source.cpp(280,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafikom\tugas4\tugas4\Source.cpp(301,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafikom\tugas4\tugas4\Source.cpp(301,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafikom\tugas4\tugas4\Source.cpp(302,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafikom\tugas4\tugas4\Source.cpp(302,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafikom\tugas4\tugas4\Source.cpp(303,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafikom\tugas4\tugas4\Source.cpp(304,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  tugas4.vcxproj -> D:\Grafikom\tugas4\x64\Debug\tugas4.exe
